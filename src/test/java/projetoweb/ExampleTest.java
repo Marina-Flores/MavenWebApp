@@ -15,7 +15,7 @@ public class ExampleTest {
         driver.get("http://localhost:8080/projetoweb");
         String pageTitle = driver.getTitle();
         System.out.println(pageTitle);
-        Assert.assertEquals("Hello World!", pageTitle);
+        Assert.assertEquals("Hello, World!", pageTitle);
         driver.quit();
     }
 }
