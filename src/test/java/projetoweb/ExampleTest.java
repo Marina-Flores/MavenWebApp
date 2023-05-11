@@ -9,7 +9,7 @@ import junit.framework.Assert;
 public class ExampleTest {
     
     @Test
-    public void testGoogleTitle() {
+    public void testLocalhostTitle() {
         System.setProperty("webdriver.chrome.driver", "C://driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("http://localhost:8080/projetoweb");
