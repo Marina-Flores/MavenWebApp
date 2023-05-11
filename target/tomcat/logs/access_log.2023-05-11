@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:01:37 -0300] "GET /projetoweb/ HTTP/1.1" 200 124 http-bio-8080-exec-1 495
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:01:59 -0300] "GET /projetoweb HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:01:59 -0300] "GET /projetoweb/ HTTP/1.1" 200 124 http-bio-8080-exec-6 56
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:01:59 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:03:47 -0300] "GET /projetoweb HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:03:48 -0300] "GET /projetoweb/ HTTP/1.1" 200 124 http-bio-8080-exec-3 472
+0:0:0:0:0:0:0:1 - - [11/May/2023:14:03:48 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
